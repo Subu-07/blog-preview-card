@@ -18,6 +18,8 @@ body {
 .card {
   background-color: hsl(0, 0%, 100%);
   width: 384px;
+  height: 522px;
+
   border: 1px solid black;
   border-radius: 20px;
   box-shadow: 10px 10px;
@@ -67,8 +69,8 @@ body {
   font-weight: 800;
   font-size: 24px;
 }
-.card__txt__title:hover{
-  color:  hsl(47, 88%, 63%);
+.card__txt__title:hover {
+  color: hsl(47, 88%, 63%);
 }
 .card__txt__desp {
   font-size: 15px;
